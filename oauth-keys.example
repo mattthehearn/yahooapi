@@ -1,0 +1,9 @@
+<?php
+
+###### Make the necessary edits below, and then change the name of this file to "oauth-keys.php".  oauth.php will automatically check there for key info.
+
+$consumer_data = array();
+$consumer_data['test']['key'] = 'put your key here';
+$consumer_data['test']['secret'] = 'put your secret here';
+
+?>
